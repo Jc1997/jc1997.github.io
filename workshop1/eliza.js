@@ -28,39 +28,27 @@
  */
 
 var rules = {
-  "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+  "~*x wake me up ~*y": [
+    "Wake me up inside!"
   ],
-  "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
-    "What do you think machines have to do with your problem?",
+  "~*x I can't wake up ~*y": [
+    "Wake me up inside!",
+    
   ],
-  "~*x name ~*y": [
-    "I am not interested in names",
+  "~*x save me! ~*y": [
+    "call my name and save. me. from. the. da-a-ark!",
   ],
-  "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+  "~*x frozen in time ~*y": [
+    "without your touch,",
+    
   ],
-  "~*x I remember ~*y": [
-    "Do you often think of ~y?",
-    "Does thinking of ~y bring anything else to mind?",
-    "What else do you remember?",
-    "Why do you recall ~y right now?",
-    "What in the present situation reminds you of ~y?",
-    "What is the connection between me and ~y?",
+  "~*x without your love darling ~*y": [
+    "Only you are the light!",
+    
   ],
-  "~*x do you remember ~*y": [
-    "Did you think I would forget ~y?",
-    "Why do you think I should recall ~y now?",
-    "What about ~y?",
-    "You mentioned ~y",
+  "~*x AMONG THE DEAD ~*y": [
+    "*Guitar intensifies*",
+   
   ],
   "~*x I want ~*y": [
     "What would it mean if you got ~y?",
