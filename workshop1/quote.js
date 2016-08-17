@@ -5,7 +5,7 @@
  */
 
 var things = ["Puppies", "Turtles", "Kitties", "My-will-to-live", "Sloths", "Help"];
-var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
+var programmers = ["d'awww", "T^T", "o.o", "bleach-enthusiast", "O:", "Wow!"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
